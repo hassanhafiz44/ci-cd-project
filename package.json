@@ -1,6 +1,6 @@
 {
   "name": "ci-cd-project",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "description": "A simple Nodejs App for CI/CD check",
   "type": "module",
   "main": "index.js",
